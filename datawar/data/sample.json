@@ -1,0 +1,8 @@
+{
+  "first_name": "Roivant",
+  "last_name": "Sciences",
+  "vehicles": [
+    { "registration_plate": "XYZ 123" },
+    { "registration_plate": "ABC 456" }
+  ]
+}
